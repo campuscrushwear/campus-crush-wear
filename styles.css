@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #ff5733;
+    color: white;
+    padding: 20px;
+}
+
+.models h2, .social-media h2 {
+    color: #333;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.gallery img {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.social-media a img {
+    width: 50px;
+    margin: 10px;
+}
+
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Campus Crush Wear</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <img src="images/logo1.png" alt="Campus Crush Wear Logo">
+        <h1>Welcome to Campus Crush Wear</h1>
+        <p>Style that speaks your identity.</p>
+    </header>
+
+    <section class="models">
+        <h2>Meet Our Models</h2>
+        <div class="gallery">
+            <img src="images/M1.jpg" alt="Model 1">
+            <img src="images/M2.jpg" alt="Model 2">
+            <img src="images/M3.jpg" alt="Model 3">
+            <img src="images/M4.jpg" alt="Model 4">
+            <img src="images/M5.jpg" alt="Model 5">
+            <img src="images/M6.jpg" alt="Model 6">
+            <img src="images/M7.jpg" alt="Model 7">
+            <img src="images/M8.jpg" alt="Model 8">
+            <img src="images/M9.jpg" alt="Model 9">
+            <img src="images/M10.jpg" alt="Model 10">
+            <img src="images/M11.jpg" alt="Model 11">
+            <img src="images/M12.jpg" alt="Model 12">
+            <img src="images/M13.jpg" alt="Model 13">
+            <img src="images/M14.jpg" alt="Model 14">
+        </div>
+    </section>
+
+   <section class="social-media">
+    <h2>Follow Us</h2>
+    <a href="https://www.instagram.com/campus_crush_wear_rsa?igsh=MXJ6cWpteG1vcnh2Ng%3D%3D&utm_source=qr" target="_blank">
+        <img src="images/logo2.png" alt="Instagram">
+    </a>
+    <a href="https://www.facebook.com/share/1BuMvoHT4J/?mibextid=wwXIfr" target="_blank">
+        <img src="images/logo2.png" alt="Facebook">
+    </a>
+    <a href="http://www.tiktok.com/@campuscrushwear2024" target="_blank">
+        <img src="images/logo2.png" alt="TikTok">
+    </a>
+</section>
+
+
+    <footer>
+        <p>&copy; 2024 Campus Crush Wear | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
